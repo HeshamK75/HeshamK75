@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HeshamK75
+- 👋 Hi, I’m Hesham
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning data analysis techniques and tools
 - 📫 How to reach me hesham.khalil.75@gmail.com
